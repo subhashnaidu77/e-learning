@@ -59,21 +59,21 @@ const Footer = () => {
               <p className="mb-0">Follow us on social media</p>
               <span>
                 {" "}
-                <a href="facebook.com">
+                <a href="https://www.facebook.com/" target="_blank">
                   <i class="ri-facebook-line"></i>
                 </a>
               </span>
 
               <span>
                 {" "}
-                <a href="facebook.com">
+                <a href="https://www.instagram.com/accounts/login/?hl=en"  target="_blank">
                   <i class="ri-instagram-line"></i>
                 </a>
               </span>
 
               <span>
                 {" "}
-                <a href="facebook.com">
+                <a href="https://www.linkedin.com/login" target="_blank">
                   <i class="ri-linkedin-line"></i>
                 </a>
               </span>
@@ -114,9 +114,9 @@ const Footer = () => {
           <Col lg="3" md="6">
             <h6 className="fw-bold">Get in Touch</h6>
 
-            <p>Address: Sylhet, Bangladesh</p>
-            <p> Phone: +88 0123456789 </p>
-            <p>Email: example@gmail.com</p>
+            <p>Address: shambala, After Himalayas</p>
+            <p> Phone: +91 0123456789 </p>
+            <p>Email: subhash@gmail.com</p>
           </Col>
         </Row>
       </Container>
